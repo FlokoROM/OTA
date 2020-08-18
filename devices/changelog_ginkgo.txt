@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: Xiaomi Redmi Note 8/T (ginkgo/willow)
+Device maintainer: azrim (Hiitagiii)
+
+===== 20200818 =====
+
+- Fixed DT2W
+- Added Xiaomi Parts
+- Updated All blobs from 20.7.30 beta
+- Set LCD density to 440
+- Enable zygote preforking
+- All changes from SiLonT kernel

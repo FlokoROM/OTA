@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "azrim",
+        "oem": "Xiaomi",
+        "device": "ginkgo",
+        "filename": "Floko-v3.0-ginkgo-20200818-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/flokorom/files/v3/ginkgo/Floko-v3.0-ginkgo-20200818-OFFICIAL.zip/download",
+        "timestamp": 1597734377,
+        "md5": "c4b051da5a32660753e84b3a652da14f",
+        "size": 913185136,
+        "version": "3.0",
+        "buildtype": "Official",
+        "forum": "https://forum.xda-developers.com/redmi-note-8/development/rom-floko-v3-redmi-note-8-t-unified-t4121201",
+        "gapps": "https://opengapps.org/",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/azrim89",
+        "telegram": "https://t.me/Hiitagiii"
+    }
+  ]
+}
