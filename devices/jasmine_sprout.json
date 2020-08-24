@@ -2,23 +2,23 @@
   "response": [
     {
         "maintainer": "Shouko",
-        "oem": "Xiaomi",
+        "oem": "",
         "device": "jasmine_sprout",
-        "filename": "Floko-v3.0-jasmine_sprout-20200808-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/flokorom/files/v3/jasmine_sprout/Floko-v3.0-jasmine_sprout-20200808-OFFICIAL.zip/download",
-        "timestamp": 1596866592,
-        "md5": "4f09bb16676144f15c8dcfdedc299a6b",
-        "size": 840024829,
+        "filename": "Floko-v3.0-jasmine_sprout-20200823-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/flokorom/files/v3/jasmine_sprout/Floko-v3.0-jasmine_sprout-20200823-OFFICIAL.zip/download",
+        "timestamp": 1598228035,
+        "md5": "9e5b636d91be0ec7f3a11c12c024377c",
+        "size": 839936166,
         "version": "3.0",
         "buildtype": "Official",
-        "forum": "https://forum.xda-developers.com/mi-a2/development/rom-floko-v3-t4060381/",
+        "forum": "",
         "gapps": "https://opengapps.org/",
         "firmware": "",
         "modem": "",
         "bootloader": "",
-        "recovery": "https://androidfilehost.com/?w=files&flid=294154",
-        "paypal": "",
-        "telegram": "https://t.me/shoukolab"
+        "recovery": "",
+        "paypal": "https://t/.me/ItsMeShouko",
+        "telegram": "https://t/.me/ItsMeShouko"
     }
   ]
 }
