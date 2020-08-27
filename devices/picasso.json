@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "江寒Seven",
+        "oem": "",
+        "device": "picasso",
+        "filename": "Floko-v3.0-picasso-20200827-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/flokorom/files/v3/picasso/Floko-v3.0-picasso-20200827-OFFICIAL.zip/download",
+        "timestamp": 1598526542,
+        "md5": "c52e023519ac855b345e64c0f0924596",
+        "size": 648539921,
+        "version": "3.0",
+        "buildtype": "Official",
+        "forum": "",
+        "gapps": "https://opengapps.org/",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "ZhuoFan-16"
+    }
+  ]
+}
