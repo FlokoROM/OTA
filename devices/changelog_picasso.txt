@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: Xiaomi Redmi K30 5G (picasso)
+Device maintainer: 江寒Seven
+
+===== 20200827 =====
+-Initial release
