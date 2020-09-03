@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Build type: Unofficial
+Build type: Official
 Device: Xiaomi Redmi Note 5 / 5 Plus (vince)
 Device maintainer: Anggit Febriantoro (a9ito)
 
