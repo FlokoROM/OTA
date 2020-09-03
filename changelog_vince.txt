@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Unofficial
+Device: Xiaomi Redmi Note 5 / 5 Plus (vince)
+Device maintainer: Anggit Febriantoro (a9ito)
+
+===== 20200904 =====
+- Initial Official Build
+- upstreamed kernel to 4.9.235
