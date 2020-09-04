@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "a9ito",
+        "oem": "",
+        "device": "vince",
+        "filename": "Floko-v3.0-vince-20200903-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/flokorom/files/v3/vince/Floko-v3.0-vince-20200903-OFFICIAL.zip/download",
+        "timestamp": 1599153115,
+        "md5": "0d5b27f2fe7dc562892897a530bde58f",
+        "size": 744145035,
+        "version": "3.0",
+        "buildtype": "Official",
+        "forum": "",
+        "gapps": "https://opengapps.org/",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/a9ito"
+    }
+  ]
+}
