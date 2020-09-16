@@ -3,6 +3,25 @@ Build type: Official
 Device: Xiaomi Mi A2 (jasmine_sprout)
 Device maintainer: Shouko (shouko)
 
+===== 20200916 =====
+
+- sdm660-common: Use clang 6778096
+- sdm660-common: Disable double defined android.hidl.base@1.0
+- sdm660-common: Remove discard flag from fstab
+- sdm660-common: Address denials for Livedisplay
+- sdm660-common: enable FBE encryption
+- sdm660-common: remove TARGET_USES_64_BIT_BINDER
+- Add new config overlay for call composer
+- rootdir: Set Netflix and media property based on target
+- init: Update ueventd rules and init rc for new audio drivers
+- Add permissions for RCS service
+- device: qcom: Grant rw permission to hgsl node
+- Add IImsFactory and uceservice HAL entry
+- Update LPA interface version
+- configs: audio: set default headset volume
+- kernel: Upstreamed to kernel version 4.4.236
+- kernel: Latest wireguard and caf tags merged
+
 ===== 20200823 =====
 
 - sdm660-common: Address denials for Livedisplay
