@@ -3,11 +3,16 @@ Build type: Official
 Device: Xiaomi Redmi Note 8/T (ginkgo/willow)
 Device maintainer: azrim (Hiitagiii)
 
-===== 20200818 =====
+===== 20200916 =====
 
-- Fixed DT2W
-- Added Xiaomi Parts
-- Updated All blobs from 20.7.30 beta
-- Set LCD density to 440
-- Enable zygote preforking
-- All changes from SiLonT kernel
+• September 2020 Security Patch
+• Added XiaomiParts
+• KCAL color control
+• Switched to QTI power hal
+• Switched to CAF NFC stack
+• Fixed GCam DSP-accelerated HDR processing
+• Boosted audio output
+• Fixed fingerprints are lost after switching to user
+• Fixed bad position of statusbar icons
+• Updated all blobs
+• All changes from SiLonT kernel
