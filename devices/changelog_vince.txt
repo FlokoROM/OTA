@@ -3,9 +3,7 @@ Build type: Official
 Device: Xiaomi Redmi Note 5 / 5 Plus (vince)
 Device maintainer: Anggit Febriantoro (a9ito)
 
-===== 20200929 =====
-- September Patch Update
+===== 20201104 =====
+- October Patch Update
 - Rebased Trees
-- Upstreamed Kernel To 4.9.237
-- Fixed Call And VOiP Issue
-- Fixed Q Gesture Navigation
+- Fixed Camera Function
