@@ -4,11 +4,11 @@
         "maintainer": "",
         "oem": "",
         "device": "vince",
-        "filename": "Floko-v3.0-vince-20201104-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/flokorom/files/v3/vince/Floko-v3.0-vince-20201104-OFFICIAL.zip/download",
-        "timestamp": 1604534400,
-        "md5": "3099198f9ba3ac7200dfd9306f47cbaf",
-        "size": ,
+        "filename": "Floko-v3.0-vince-20201112-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/flokorom/files/v3/vince/Floko-v3.0-vince-20201112-OFFICIAL.zip/download",
+        "timestamp": 1605149825,
+        "md5": "39692a2cf93db59d8b37a8c168564a13",
+        "size": 751750264,
         "version": "3.0",
         "buildtype": "Official",
         "forum": "",
@@ -16,9 +16,9 @@
         "firmware": "",
         "modem": "",
         "bootloader": "",
-        "recovery": "https://files.orangefox.tech/OrangeFox-Beta/vince/OrangeFox-R11.0_0-Beta-vince.zip",
+        "recovery": "",
         "paypal": "",
-        "telegram": "http://t.me/a9ito/"
+        "telegram": ""
     }
   ]
 }

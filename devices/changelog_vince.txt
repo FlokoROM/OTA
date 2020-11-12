@@ -3,7 +3,6 @@ Build type: Official
 Device: Xiaomi Redmi Note 5 / 5 Plus (vince)
 Device maintainer: Anggit Febriantoro (a9ito)
 
-===== 20201104 =====
-- October Patch Update
-- Rebased Trees
-- Fixed Camera Function
+===== 20201112 =====
+- November Patch Update
+- Fixed Video Function
