@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: OnePlus 7 (guacamoleb)
+Device maintainer: tumayouzi
+
+===== 20201115 =====
+
+• November 2020 Security Patch
+• Update Linux Kernel 4.14.204
+• Import OnePlus Kernel updates
+• Update Blobs & device from OOS 10.3.6
+• Various other updates (See the github commit for details)
+
