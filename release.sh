@@ -22,7 +22,7 @@ id=$(echo $file | md5sum | cut -d' ' -f1)
 size=$(stat -c "%s" $file)
 filename=$(basename $file)
 
-rsync -avP -e ssh ${file} ${user}@frs.sourceforge.net:/home/frs/project/flokorom/v3/${device}/${filename}
+rsync -avP -e ssh ${file} ${user}@frs.sourceforge.net:/home/frs/project/flokorom/v4/${device}/${filename}
 
 echo -e "upload is done! generate json..."
 
@@ -35,7 +35,7 @@ echo '{
         "oem": "'$oem'",
         "device": "'$device'",
         "filename": "'$filename'",
-        "download": "https://sourceforge.net/projects/flokorom/files/v3/'$device'/'$filename'/download",
+        "download": "https://sourceforge.net/projects/flokorom/files/v4/'$device'/'$filename'/download",
         "timestamp": '$datetime',
         "md5": "'$id'",
         "size": '$size',

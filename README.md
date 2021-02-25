@@ -1,4 +1,4 @@
-# FlokoROM OTA repo (and release script)
+# FlokoROM v4 OTA repo (and release script)
 
 In order for a device to be officially supported by FlokoROM, OTA information needs to be added.
 
@@ -17,8 +17,8 @@ In order for a device to be OTA compliant, there are a few things to know.
         "maintainer": "Name (nickname)",
         "oem": "OEM",
         "device": "Device Name",
-        "filename": "Floko-v3.0-<device codename>-<date>-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/flokorom/files/v3/<device codename>/Floko-v3.0-<device codename>-<date>-OFFICIAL.zip/download",
+        "filename": "Floko-v4.0-<device codename>-<date>-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/flokorom/files/v4/<device codename>/Floko-v4.0-<device codename>-<date>-OFFICIAL.zip/download",
         "timestamp": 0000000000,
         "md5": "abcdefg123456",
         "size": 123456789,
@@ -77,7 +77,7 @@ cp config.sh.sample config.sh
 3. Open the file in a text editor (vim, nano, any GUI editor) and make changes from where it states *#modify values below*, save the file then run the upload script with below command
 
 ```sh
-./release.sh <codename> /path/to/rom/like/Floko-v3.0-clover-20200713_063400-OFFICIAL.zip
+./release.sh <codename> /path/to/rom/like/Floko-v4.0-device-20210225_090000-OFFICIAL.zip
 ```
 
 4. A file named `codename.json` gets created in `device` folder in this repository.
@@ -89,7 +89,7 @@ cp config.sh.sample config.sh
 1. Clone this repo locally
 
 ```
-git clone https://github.com/FlokoROM/OTA -b 10.0
+git clone https://github.com/FlokoROM/OTA -b 11.0
 ```
 
 2. Change to the directory where you cloned this repo (OTA) and fetch updates from repo.
